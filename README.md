@@ -1,22 +1,22 @@
-# LinkedIn Klonu
+# LinkedIn Clone
 
-Bu proje, HTML, CSS ve Bootstrap kullanarak LinkedIn'in ana sayfasının temel özelliklerini taklit eden bir klon geliştirmeyi amaçlamaktadır. Bu çalışma, Bootstrap'in sunduğu özelliklerle tasarım pratiği yapmayı hedefler ve sayfa düzeni, ikonik öğeler ve açılır menülerle birlikte LinkedIn'in temel yapısını yansıtır.
+This project aims to develop a clone of LinkedIn's homepage using HTML, CSS, and Bootstrap. The goal of this work is to practice design using Bootstrap's features, reflecting LinkedIn's basic structure with page layout, iconic elements, and dropdown menus.
 
-## Proje Yapısı
+## Proje Structure
 
-Navbar: Sol tarafta logo, arama çubuğu, bildirimler ve profil menüsü; sağda ise "iş için" ikonuyla açılır menü bulunur.
-Ana İçerik: Gönderi oluşturma alanı, içerik görselleri, beğenme, yorum yapma, paylaşma gibi etkileşimli butonlar içerir.
-Önerilen Bağlantılar: Öne çıkan hikayeler, okuyucu sayısı ve zaman bilgisini gösteren listeler yer alır.
+Navbar: On the left, it includes the logo, search bar, notifications, and profile menu; on the right, there is a dropdown menu with the "For Business" icon.
+Main Content: Contains a post creation area, content images, and interactive buttons such as like, comment, and share.
+Suggested Connections: Lists featuring highlighted stories, reader count, and time information.
 
-## Kullanılan Teknolojiler
+## Technologies Used
 
 HTML
 CSS
 Bootstrap
 Bootstrap Icons
 
-## Özellikler
+## Features
 
-Responsive Tasarım
-İkonlar ve Butonlar
-Etkileşimli Öğeler
+Responsive Design
+Icons and Buttons
+Interactive Elements
